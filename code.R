@@ -45,7 +45,7 @@ library(summarytools)
 
 ############################### DATA PREPARATION ###############################
 
-data <- read_sav("/Users/ariannagirotto/Desktop/PRIMO TRIMESTRE/PROGETTO ADVANCED/Parenting Styles and Character Strengths.sav")
+data <- read_sav("/Users//Parenting Styles and Character Strengths.sav")
 
 ### Checking for missing values --> no missing values found
 sum(is.na(data))
